@@ -1,0 +1,1 @@
+insert into word values('scarcity','less in number');
